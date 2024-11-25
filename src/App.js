@@ -18,7 +18,7 @@ function App() {
   return (
     <VoteProvider>
       <div className="App">
-        <h1>투표</h1>
+        <h1>Simple Counter Version 2</h1>
         <section>
           <Viewer />
         </section>
